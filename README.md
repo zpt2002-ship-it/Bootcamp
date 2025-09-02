@@ -39,8 +39,8 @@ Here you’ll find everything you need to follow along with the course **lecture
 **Shaahid Ahmed**\
 Graduate Student, NYU  
 
-- [LinkedIn]([https://www.linkedin.com/in/shaahidahmed](https://www.linkedin.com/in/shaahid-ahmed-n-00b236154/))  
-- [GitHub]([https://github.com/<your-handle>](https://github.com/shaahid-ahmed))
+- [LinkedIn](https://www.linkedin.com/in/shaahid-ahmed-n-00b236154/)  
+- [GitHub](https://github.com/shaahid-ahmed)
   
 ---
 
